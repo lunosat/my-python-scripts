@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-lyrics = open('links.txt', 'r')
+lyrics = open('lyrics.txt', 'r')
 
 time.sleep(10)
 
